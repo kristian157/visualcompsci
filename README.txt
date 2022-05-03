@@ -1,3 +1,16 @@
+This project is a software to render and manipulate a 3D model using WebGL/three.js. I started by using a WebGL skeelton but 
+most of the code in JavaScript has been written by me.  
+I had to fulfill 10 requirements which were the following:
+          - Draw a cube 
+          - Draw a coordinate system axes 
+          - Rotate the cube 
+          - Rendering 
+          - Translate the camera 
+          - Orbit the camera 
+          - Texture mapping 
+          - Load a mesh model from .obj 
+          - Rotate the mesh, render it in different modes 
+          - Do something creative - I implemented a solar system :) 
 For this coursework, I made a lot of use of the keyboard shortcuts. This file will act as an explanation of how to work with this software:
 Keyboard keys:
 "e" - shows the edges rendering
